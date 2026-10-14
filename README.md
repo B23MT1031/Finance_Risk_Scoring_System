@@ -189,11 +189,5 @@ Model outputs should be validated on appropriately separated datasets and monito
 - Introduce fairness and model-drift monitoring.
 - Develop a reproducible model-training and deployment pipeline.
 
-## Disclaimer
 
-This project is intended for educational and research purposes. Predictions are not financial advice and should not be used as the sole basis for real-world lending decisions.
-
-## Author
-
-**Prayag Raghunandan**
 
